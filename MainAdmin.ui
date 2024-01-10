@@ -94,14 +94,14 @@
     <widget class="QTabWidget" name="tabWidget_2">
      <property name="geometry">
       <rect>
-       <x>10</x>
-       <y>10</y>
-       <width>241</width>
+       <x>0</x>
+       <y>0</y>
+       <width>251</width>
        <height>251</height>
       </rect>
      </property>
      <property name="currentIndex">
-      <number>3</number>
+      <number>0</number>
      </property>
      <widget class="QWidget" name="tab_13">
       <attribute name="title">
@@ -110,27 +110,27 @@
       <widget class="QLabel" name="label_2">
        <property name="geometry">
         <rect>
-         <x>40</x>
+         <x>10</x>
          <y>50</y>
-         <width>41</width>
+         <width>131</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>LC1</string>
+        <string>Algorithmique et programmation</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_9">
        <property name="geometry">
         <rect>
-         <x>40</x>
+         <x>10</x>
          <y>200</y>
-         <width>41</width>
+         <width>121</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>CIRCUITS</string>
+        <string>Statistique/Analyse des données</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_8">
@@ -146,14 +146,14 @@
       <widget class="QLabel" name="label_7">
        <property name="geometry">
         <rect>
-         <x>30</x>
+         <x>50</x>
          <y>140</y>
          <width>61</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ELECTRICITE</string>
+        <string>LC</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_7">
@@ -181,12 +181,12 @@
         <rect>
          <x>30</x>
          <y>80</y>
-         <width>41</width>
+         <width>71</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ALGEBRE 1</string>
+        <string>Analyse numérique</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_4">
@@ -245,14 +245,14 @@
       <widget class="QLabel" name="label_6">
        <property name="geometry">
         <rect>
-         <x>20</x>
+         <x>40</x>
          <y>110</y>
          <width>81</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>PROGRAMMATION 1</string>
+        <string>TS / BPT </string>
        </property>
       </widget>
       <widget class="QLabel" name="label_8">
@@ -265,7 +265,7 @@
         </rect>
        </property>
        <property name="text">
-        <string>ANALYSE 1</string>
+        <string>SI Reseau</string>
        </property>
       </widget>
      </widget>
@@ -276,14 +276,14 @@
       <widget class="QLabel" name="label_11">
        <property name="geometry">
         <rect>
-         <x>40</x>
+         <x>10</x>
          <y>50</y>
-         <width>41</width>
+         <width>131</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>LC2</string>
+        <string>Cartographie numérique et DAO</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_12">
@@ -291,18 +291,18 @@
         <rect>
          <x>0</x>
          <y>200</y>
-         <width>111</width>
+         <width>141</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>STRUCTURE DE LA MATIERE</string>
+        <string>Optimisation et analyse de systèmes </string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_10">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>200</y>
          <width>91</width>
          <height>16</height>
@@ -312,20 +312,20 @@
       <widget class="QLabel" name="label_13">
        <property name="geometry">
         <rect>
-         <x>10</x>
+         <x>0</x>
          <y>140</y>
-         <width>81</width>
+         <width>151</width>
          <height>20</height>
         </rect>
        </property>
        <property name="text">
-        <string>THERMODYNAMIQUE</string>
+        <string>Géométrie analytique et algorithmique</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_11">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>170</y>
          <width>91</width>
          <height>16</height>
@@ -335,7 +335,7 @@
       <widget class="QLineEdit" name="lineEdit_12">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>110</y>
          <width>91</width>
          <height>16</height>
@@ -345,20 +345,20 @@
       <widget class="QLabel" name="label_14">
        <property name="geometry">
         <rect>
-         <x>30</x>
+         <x>0</x>
          <y>80</y>
-         <width>51</width>
+         <width>141</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ANALYSE 2</string>
+        <string>Programmation et modélisation Objet</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_13">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>80</y>
          <width>91</width>
          <height>16</height>
@@ -368,7 +368,7 @@
       <widget class="QLineEdit" name="lineEdit_14">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>140</y>
          <width>91</width>
          <height>16</height>
@@ -391,7 +391,7 @@
       <widget class="QLineEdit" name="lineEdit_15">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>20</y>
          <width>91</width>
          <height>16</height>
@@ -401,7 +401,7 @@
       <widget class="QLineEdit" name="lineEdit_16">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>50</y>
          <width>91</width>
          <height>16</height>
@@ -411,27 +411,27 @@
       <widget class="QLabel" name="label_16">
        <property name="geometry">
         <rect>
-         <x>30</x>
+         <x>20</x>
          <y>110</y>
-         <width>41</width>
+         <width>101</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ALGEBRE 2</string>
+        <string>Information géographique</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_17">
        <property name="geometry">
         <rect>
-         <x>0</x>
+         <x>40</x>
          <y>170</y>
-         <width>111</width>
-         <height>20</height>
+         <width>41</width>
+         <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>MECANIQUE DU POINT ET OG</string>
+        <string>Anglais 1</string>
        </property>
       </widget>
      </widget>
@@ -442,33 +442,33 @@
       <widget class="QLabel" name="label_18">
        <property name="geometry">
         <rect>
-         <x>50</x>
+         <x>40</x>
          <y>50</y>
-         <width>21</width>
+         <width>51</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>LC2</string>
+        <string>Topographie</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_19">
        <property name="geometry">
         <rect>
          <x>40</x>
-         <y>200</y>
-         <width>41</width>
+         <y>20</y>
+         <width>51</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ANALYSE 3</string>
+        <string>CNE etudient</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_17">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>200</y>
          <width>91</width>
          <height>16</height>
@@ -478,20 +478,20 @@
       <widget class="QLabel" name="label_20">
        <property name="geometry">
         <rect>
-         <x>30</x>
+         <x>20</x>
          <y>140</y>
-         <width>61</width>
+         <width>101</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>STATISTIQUES</string>
+        <string>Méthode d’analyse spatiales</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_18">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>170</y>
          <width>91</width>
          <height>16</height>
@@ -501,7 +501,7 @@
       <widget class="QLineEdit" name="lineEdit_19">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>110</y>
          <width>91</width>
          <height>16</height>
@@ -513,18 +513,18 @@
         <rect>
          <x>20</x>
          <y>80</y>
-         <width>91</width>
+         <width>111</width>
          <height>20</height>
         </rect>
        </property>
        <property name="text">
-        <string>PROGRAMMATION 2</string>
+        <string>Bases de données  spatiales</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_20">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>80</y>
          <width>91</width>
          <height>16</height>
@@ -534,7 +534,7 @@
       <widget class="QLineEdit" name="lineEdit_21">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>140</y>
          <width>91</width>
          <height>16</height>
@@ -544,20 +544,20 @@
       <widget class="QLabel" name="label_22">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>20</y>
-         <width>51</width>
+         <x>10</x>
+         <y>200</y>
+         <width>131</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>CNE etudient</string>
+        <string>Géodésie/Localisation par satellite</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_22">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>20</y>
          <width>91</width>
          <height>16</height>
@@ -567,7 +567,7 @@
       <widget class="QLineEdit" name="lineEdit_23">
        <property name="geometry">
         <rect>
-         <x>120</x>
+         <x>140</x>
          <y>50</y>
          <width>91</width>
          <height>16</height>
@@ -577,27 +577,27 @@
       <widget class="QLabel" name="label_23">
        <property name="geometry">
         <rect>
-         <x>10</x>
+         <x>20</x>
          <y>110</y>
-         <width>101</width>
+         <width>121</width>
          <height>20</height>
         </rect>
        </property>
        <property name="text">
-        <string>MECANIQUE DES SOLIDES</string>
+        <string>Communication professionnelle</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_24">
        <property name="geometry">
         <rect>
-         <x>10</x>
+         <x>0</x>
          <y>170</y>
-         <width>91</width>
+         <width>161</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>REACTIVITE CHIMIQUE</string>
+        <string>Systèmes d’information géographique</string>
        </property>
       </widget>
      </widget>
@@ -610,31 +610,31 @@
         <rect>
          <x>20</x>
          <y>50</y>
-         <width>91</width>
+         <width>101</width>
          <height>20</height>
         </rect>
        </property>
        <property name="text">
-        <string>ELECTROMAGNETISME</string>
+        <string>Télédétection Radar/Lidar</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_26">
        <property name="geometry">
         <rect>
-         <x>20</x>
+         <x>0</x>
          <y>200</y>
-         <width>101</width>
+         <width>161</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>MECANIQUE QUANTIQUE</string>
+        <string>Wabemapping &amp; Développement mobile</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_24">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>200</y>
          <width>91</width>
          <height>16</height>
@@ -646,18 +646,18 @@
         <rect>
          <x>20</x>
          <y>140</y>
-         <width>101</width>
+         <width>111</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>SI BASE DE DONNEES</string>
+        <string>Programmation pour les SIG</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_25">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>170</y>
          <width>91</width>
          <height>16</height>
@@ -667,7 +667,7 @@
       <widget class="QLineEdit" name="lineEdit_26">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>110</y>
          <width>91</width>
          <height>16</height>
@@ -677,20 +677,20 @@
       <widget class="QLabel" name="label_28">
        <property name="geometry">
         <rect>
-         <x>20</x>
+         <x>0</x>
          <y>80</y>
-         <width>91</width>
+         <width>171</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ANALYSE NUMERIQUE</string>
+        <string>Télédétection et traitement d’images</string>
        </property>
       </widget>
       <widget class="QLineEdit" name="lineEdit_27">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>80</y>
          <width>91</width>
          <height>16</height>
@@ -700,7 +700,7 @@
       <widget class="QLineEdit" name="lineEdit_28">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>140</y>
          <width>91</width>
          <height>16</height>
@@ -723,7 +723,7 @@
       <widget class="QLineEdit" name="lineEdit_29">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>20</y>
          <width>91</width>
          <height>16</height>
@@ -733,7 +733,7 @@
       <widget class="QLineEdit" name="lineEdit_30">
        <property name="geometry">
         <rect>
-         <x>130</x>
+         <x>150</x>
          <y>50</y>
          <width>91</width>
          <height>16</height>
@@ -743,27 +743,193 @@
       <widget class="QLabel" name="label_30">
        <property name="geometry">
         <rect>
-         <x>10</x>
+         <x>30</x>
          <y>110</y>
-         <width>111</width>
+         <width>71</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>STRUCTURES DE DONNEES</string>
+        <string>Photogrammétrie</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_31">
        <property name="geometry">
         <rect>
-         <x>40</x>
+         <x>50</x>
          <y>170</y>
          <width>41</width>
          <height>16</height>
         </rect>
        </property>
        <property name="text">
-        <string>ANALYSE 4</string>
+        <string>Anglais 2</string>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QWidget" name="tab_17">
+      <attribute name="title">
+       <string>S5</string>
+      </attribute>
+      <widget class="QLabel" name="label_32">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>80</y>
+         <width>171</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Gestion de l’environnement et du territoire</string>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_31">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>140</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_32">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>80</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_33">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>140</y>
+         <width>151</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Gestion et management de projet</string>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_33">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>50</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_34">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>170</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_34">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>170</y>
+         <width>71</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Gestion des réseaux</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_35">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>20</y>
+         <width>51</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>CNE etudient</string>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_35">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>20</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_36">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>110</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>SIG et prise de décision</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_37">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>50</y>
+         <width>151</width>
+         <height>20</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Gestion del’entreprise &amp; des ressources</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_38">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>200</y>
+         <width>131</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Administration des données spatiales</string>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_36">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>110</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="lineEdit_37">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>200</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
        </property>
       </widget>
      </widget>
