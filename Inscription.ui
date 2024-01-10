@@ -193,16 +193,6 @@
     </rect>
    </property>
   </widget>
-  <widget class="QLineEdit" name="lineEdit_7">
-   <property name="geometry">
-    <rect>
-     <x>440</x>
-     <y>80</y>
-     <width>91</width>
-     <height>16</height>
-    </rect>
-   </property>
-  </widget>
   <widget class="QLineEdit" name="lineEdit_8">
    <property name="geometry">
     <rect>
